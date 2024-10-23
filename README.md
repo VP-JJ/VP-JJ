@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JJ or @VP-JJ 👋
 - 💻 I’m interested in Vialto Partners Digital Transformation 📱
-- 👨‍💻 I’m currently learning .Net, VS Code, and Office Add-in's 👩‍💻
+- 👨‍💻 I’m currently learning .Net and Azure 👩‍💻
 - 😎 I’m looking to collaborate on everything Vialto IT related 😎
 - 📧 Find me by contacting Vialto Partners DK! 📧
 
